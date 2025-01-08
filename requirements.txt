@@ -1,0 +1,8 @@
+streamlit==1.24.0
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.15.0
+requests==2.31.0
+jsonschema==4.19.0
+wordcloud==1.8.2.2
+textblob==0.17.1
